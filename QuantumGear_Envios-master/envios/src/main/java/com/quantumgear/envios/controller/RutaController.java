@@ -9,7 +9,7 @@ import com.quantumgear.envios.model.Ruta;
 
 import java.util.List;
 @RestController
-@RequestMapping
+@RequestMapping("/api/v1/Rutas")
 
 public class RutaController {
     @Autowired

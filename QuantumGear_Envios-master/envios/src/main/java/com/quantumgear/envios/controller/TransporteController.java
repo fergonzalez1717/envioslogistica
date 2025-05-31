@@ -10,7 +10,7 @@ import com.quantumgear.envios.model.Transporte;
 import java.util.List;
 
 @RestController
-@RequestMapping
+@RequestMapping("/api/v1/Transporte")
 
 public class TransporteController {
 
